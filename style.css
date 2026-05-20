@@ -1,0 +1,37 @@
+body {
+    font-family: Arial;
+    background: #f4f6f9;
+    text-align: center;
+}
+
+.container {
+    background: white;
+    padding: 30px;
+    margin: 50px auto;
+    width: 400px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #ccc;
+}
+
+input {
+    width: 90%;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+button {
+    padding: 10px 20px;
+    background: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background: darkblue;
+}
+
+.note {
+    font-size: 12px;
+    color: gray;
+}
